@@ -1,6 +1,6 @@
 # IoT Devices - I2C Memory Slave Device for mBed
 
-This firmware is for the LPC1768 mBed device. It emulates a very simple I2C memory device.
+This firmware is an mBed device. It emulates a very simple I2C memory device.
 
 ## I2C Characteristics
 
