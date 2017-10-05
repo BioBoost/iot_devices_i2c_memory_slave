@@ -7,3 +7,4 @@ mbed/
 .mbed
 projectfiles
 *.py*
+SimplyLog/
